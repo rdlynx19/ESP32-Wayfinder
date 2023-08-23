@@ -25,7 +25,7 @@ The ESP32 microcontroller acts as a receiver for **audio signals** from popular 
 
 ## Conclusion
 
-The key breakthrough in our project is the utilization of voice packs for navigation, which allows our device to be used in both bright sunlight and dark conditions. It is compact, easy to use, and does not require any custom applications as it leverages existing voice packs. This device can be used in various vehicles and can also be optimized for use as a directional indicator when attached to the rear of a bicycle.
+The key breakthrough in our project is the utilization of voice packs for navigation, which allows our device to be used in both bright sunlight and dark conditions. It is compact, easy to use, and does not require any custom applications as it leverages existing voice packs. This device can be used in various vehicles and can also be optimized for use as a directional indicator when attached to the rear of a bicycle. Demo video can be found [here](https://drive.google.com/file/d/1Mbkwd8EKZAl2kjRXVolxyFDNpLGan6j1/view?usp=sharing).
 
 ## Acknowledgements
 
